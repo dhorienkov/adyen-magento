@@ -23,6 +23,10 @@ Copy the folders to your main Magento environment or use composer:
 ```
 composer require adyen/payment
 ```
+and
+```
+/adyen/ThreeDS2Process/*
+```
 
 ## Documentation
 [Magento documentation](https://docs.adyen.com/developers/plug-ins-and-partners/magento-1)
